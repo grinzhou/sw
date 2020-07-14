@@ -1,0 +1,6 @@
+培训视频：
+https://hsbc.mc.eu2.kontiki.com/global2/player?moid=8ed14fd5-38d4-46c0-b76c-433442a84b62
+
+
+考试入口：
+https://adfederationservices.it.global.hsbc/adfs/ls/IdpInitiatedSignOn.aspx?loginToRp=https://portal-api.securecodewarrior.com
